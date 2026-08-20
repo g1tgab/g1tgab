@@ -1,8 +1,8 @@
-<img data-importer="image" align="left" height="150" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZnZ2FxanU1cnZhcDJsaXRqcHlwaW52ajhldndyNjc3azQ4cHl2ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif"  />
+<img data-importer="image" align="left" height="232" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHZnZ2FxanU1cnZhcDJsaXRqcHlwaW52ajhldndyNjc3azQ4cHl2ciZlcD12MV9naWZzX3NlYXJjaCZjdD1n/3oKIPnAiaMCws8nOsE/giphy.gif"  />
 
 ###
 
-<div data-importer="socials" align="center">
+<div data-importer="socials" align="left">
   <img src="https://img.shields.io/static/v1?message=Facebook&logo=facebook&label=&color=1877F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="facebook logo"  />
   <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
   <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="gmail logo"  />
@@ -11,15 +11,17 @@
 
 ###
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=g1tgab.g1tgab&"  />
+<div data-importer="profile-views" align="left">
+  <img data-importer="profile-views" src="https://count.getloli.com/@:maurodesouza?theme=3d-num&padding=7&scale=1&align=top&pixelated=1&darkmode=auto"  />
 </div>
 
 ###
 
-<h1 data-importer="text" align="center">Hi I'm Gab 👋</h1>
+<h1 data-importer="text" align="left">Hi I'm Gab 👋</h1>
 
 ###
+
+<br clear="both">
 
 <h3 data-importer="text" align="left">👩‍💻  About Me</h3>
 
